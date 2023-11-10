@@ -3,6 +3,13 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "Python_Prog",
+    "test_projects",
+    "Acoustic-Backscatter-Receiver",
+    "repair_flow",
+    "C-Codes",
+    "Resource_Alloc_Traf",
+    "voirepair",
+    "repair"
   ]
 }
