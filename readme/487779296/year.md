@@ -1,6 +1,6 @@
 ## [🔙 github_profile_views_counter](https://github.com/karcodehub/github_profile_views_counter)
 
-### :octocat: [Resource_Alloc_Traf](https://github.com/karcodehub/Resource_Alloc_Traf)
+### :octocat: [Allocation_Resources_networking](https://github.com/karcodehub/Allocation_Resources_networking)
 ![Image of github_profile_views_counter](https://github.com/karcodehub/github_profile_views_counter/blob/master/graph/487779296/large/year.png)
 
 <details>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/11/17 6:17 PM UTC</i></small>
+<small><i>Last updated on 2023/11/18 12:59 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of github_profile_views_counter](https://github.com/karcodehub/github_profile_views_counter/blob/master/svg/487779296/badge.svg)](https://github.com/karcodehub/github_profile_views_counter/blob/master/readme/487779296/week.md)
 ```
 ### Header
-# Resource_Alloc_Traf [<img alt="Image of github_profile_views_counter" src="https://github.com/karcodehub/github_profile_views_counter/blob/master/graph/487779296/small/year.png" height="20">](https://github.com/karcodehub/github_profile_views_counter/blob/master/readme/487779296/year.md)
+# Allocation_Resources_networking [<img alt="Image of github_profile_views_counter" src="https://github.com/karcodehub/github_profile_views_counter/blob/master/graph/487779296/small/year.png" height="20">](https://github.com/karcodehub/github_profile_views_counter/blob/master/readme/487779296/year.md)
 ```readme
-# Resource_Alloc_Traf [<img alt="Image of github_profile_views_counter" src="https://github.com/karcodehub/github_profile_views_counter/blob/master/graph/487779296/small/year.png" height="20">](https://github.com/karcodehub/github_profile_views_counter/blob/master/readme/487779296/year.md)
+# Allocation_Resources_networking [<img alt="Image of github_profile_views_counter" src="https://github.com/karcodehub/github_profile_views_counter/blob/master/graph/487779296/small/year.png" height="20">](https://github.com/karcodehub/github_profile_views_counter/blob/master/readme/487779296/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
